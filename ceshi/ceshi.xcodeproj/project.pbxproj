@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CBF0445D1BD80F76005277C6 /* SEC.m in Sources */ = {isa = PBXBuildFile; fileRef = CBF0445C1BD80F76005277C6 /* SEC.m */; };
+		CBF044601BD810A6005277C6 /* Thi.m in Sources */ = {isa = PBXBuildFile; fileRef = CBF0445F1BD810A6005277C6 /* Thi.m */; };
 		D9A6CE481BD78BC9003D95F3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D9A6CE471BD78BC9003D95F3 /* main.m */; };
 		D9A6CE4B1BD78BC9003D95F3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D9A6CE4A1BD78BC9003D95F3 /* AppDelegate.m */; };
 		D9A6CE4E1BD78BC9003D95F3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9A6CE4D1BD78BC9003D95F3 /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		CBF0445B1BD80F76005277C6 /* SEC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SEC.h; sourceTree = "<group>"; };
 		CBF0445C1BD80F76005277C6 /* SEC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SEC.m; sourceTree = "<group>"; };
+		CBF0445E1BD810A6005277C6 /* Thi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Thi.h; sourceTree = "<group>"; };
+		CBF0445F1BD810A6005277C6 /* Thi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Thi.m; sourceTree = "<group>"; };
 		D9A6CE421BD78BC8003D95F3 /* ceshi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ceshi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A6CE461BD78BC9003D95F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9A6CE471BD78BC9003D95F3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -90,6 +93,8 @@
 				D9A6CE4D1BD78BC9003D95F3 /* ViewController.m */,
 				CBF0445B1BD80F76005277C6 /* SEC.h */,
 				CBF0445C1BD80F76005277C6 /* SEC.m */,
+				CBF0445E1BD810A6005277C6 /* Thi.h */,
+				CBF0445F1BD810A6005277C6 /* Thi.m */,
 				D9A6CE4F1BD78BC9003D95F3 /* Main.storyboard */,
 				D9A6CE521BD78BC9003D95F3 /* Images.xcassets */,
 				D9A6CE541BD78BC9003D95F3 /* LaunchScreen.xib */,
@@ -225,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9A6CE4E1BD78BC9003D95F3 /* ViewController.m in Sources */,
+				CBF044601BD810A6005277C6 /* Thi.m in Sources */,
 				D9A6CE4B1BD78BC9003D95F3 /* AppDelegate.m in Sources */,
 				D9A6CE481BD78BC9003D95F3 /* main.m in Sources */,
 				CBF0445D1BD80F76005277C6 /* SEC.m in Sources */,
